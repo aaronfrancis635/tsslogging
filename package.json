@@ -1,0 +1,23 @@
+{
+  "name": "tsslogging",
+  "version": "1.0.0",
+  "description": "A logging utility built for use on The Stream Shack products but can be used by others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronfrancis635/tsslogging.git"
+  },
+  "keywords": [
+    "logging",
+    "utility"
+  ],
+  "author": "aaronfrancis635 (Aaron Francis)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aaronfrancis635/tsslogging/issues"
+  },
+  "homepage": "https://github.com/aaronfrancis635/tsslogging#readme"
+}
